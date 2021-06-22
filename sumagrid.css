@@ -18,11 +18,11 @@ a {text-decoration: none;}
     grid-template-rows: 100%;
     background-image: linear-gradient(to top, rgb(226, 225, 225),lawngreen);
     grid-template-areas: "logo titulo navegador";
- 
+
 }
  
 div:hover{
-    transform: scale(2,1);
+    transform: rotateX(30deg);
     }
 #logo { 
     text-align: center;
